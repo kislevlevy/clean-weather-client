@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
    ```
 3. Open `index.html` in your preferred web browser.
 
-> You can also preview the application by visiting the following link: [Clean Weather Client](http://kislev.me/clean-weather-client)
+> You can also preview the application by visiting the following link: [Clean Weather Client](https://kislevlevy.github.io/clean-weather-client/)
 
 ## Usage
 
